@@ -1,0 +1,33 @@
+﻿<table border="1"  class="list">
+    <thead>
+        <tr>
+            <th>code</th>
+            <th>Bookname</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let book of booklist | slice: (curPage * pageSize) - pageSize :curPage * pageSize">
+            <td>{{book.BookId}}</td>
+            <td>{{book.Bookname}}</td>
+            <td><a (click)="getbookbyid(book.BookId)">Edit</a></td>
+        </tr>
+    </tbody>
+</table>
+<p class="pagination">
+    <button [disabled]="curPage == 1" (click)="curPage = curPage - 1">PREV</button>
+    <span>Page {{curPage}} of {{ numberOfPages() }}</span>
+    <button [disabled]="curPage >= booklist.length/pageSize"
+            (click)="curPage = curPage + 1">
+        NEXT
+    </button>
+</p>
+<div *ngIf="find!= 0">
+   Bookid:<input type="text" readonly [(ngModel)]="BookId" /><br />
+   BookName:<input type="text"  [(ngModel)]="name" /><br />
+   BookAuthor:<input type="text" [(ngModel)]="author" /><br />
+   BookPages:<input type="text" readonly [(ngModel)]="NOP" /><br />
+   DtaePublication:<input readonly type="text" [(ngModel)]="Date" /><br />
+   <input type="button" (click)="Edit()" value="Edit" />
+    <input type="button" (click)="noEdit()" value="Cancel" />
+</div>

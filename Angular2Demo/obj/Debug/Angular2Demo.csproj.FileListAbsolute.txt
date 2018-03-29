@@ -1,0 +1,115 @@
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.csprojResolveAssemblyReference.cache
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\Angular2Demo.dll.config
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\Angular2Demo.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\Angular2Demo.pdb
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\csc.exe
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\csc.exe.config
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\csc.rsp
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\csi.exe
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\csi.exe.config
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\csi.rsp
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.AppContext.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Console.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\vbc.exe
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\vbc.exe.config
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\vbc.rsp
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.csproj.CoreCompileInputs.cache
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.csproj.CopyComplete
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.dll
+C:\Users\Rahul Puri\source\repos\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.pdb
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\Angular2Demo.dll.config
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\Angular2Demo.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\Angular2Demo.pdb
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\csc.exe
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\csc.exe.config
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\csc.rsp
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\csi.exe
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\csi.exe.config
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\csi.rsp
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.AppContext.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Collections.Immutable.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Console.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Diagnostics.Process.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.IO.Compression.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.IO.FileSystem.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.IO.Pipes.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.AccessControl.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Claims.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Threading.Thread.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.ValueTuple.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Xml.XPath.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\vbc.exe
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\vbc.exe.config
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\vbc.rsp
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\VBCSCompiler.exe
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\roslyn\VBCSCompiler.exe.config
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Anil\repos\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.csprojResolveAssemblyReference.cache
+D:\Anil\repos\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.csproj.CoreCompileInputs.cache
+D:\Anil\repos\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.dll
+D:\Anil\repos\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.pdb
